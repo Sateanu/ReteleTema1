@@ -1,0 +1,14 @@
+c:\users\andrei\documents\visual studio 2013\Projects\ReteleTema1\bin\Debug\ReteleTema1.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\ReteleTema1\bin\Debug\ReteleTema1.exe
+c:\users\andrei\documents\visual studio 2013\Projects\ReteleTema1\bin\Debug\ReteleTema1.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\ReteleTema1\obj\Debug\ReteleTema1.csprojResolveAssemblyReference.cache
+c:\users\andrei\documents\visual studio 2013\Projects\ReteleTema1\obj\Debug\ReteleTema1.exe
+c:\users\andrei\documents\visual studio 2013\Projects\ReteleTema1\obj\Debug\ReteleTema1.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\ReteleTema1\bin\Debug\fisier1.txt
+C:\Users\Andrei\Documents\GitHub\ReteleTema1\ReteleTema1\bin\Debug\ReteleTema1.exe.config
+C:\Users\Andrei\Documents\GitHub\ReteleTema1\ReteleTema1\obj\Debug\ReteleTema1.exe
+C:\Users\Andrei\Documents\GitHub\ReteleTema1\ReteleTema1\obj\Debug\ReteleTema1.pdb
+C:\Users\Andrei\Documents\GitHub\ReteleTema1\ReteleTema1\bin\Debug\fisier1.txt
+C:\Users\Andrei\Documents\GitHub\ReteleTema1\ReteleTema1\bin\Debug\ReteleTema1.exe
+C:\Users\Andrei\Documents\GitHub\ReteleTema1\ReteleTema1\bin\Debug\ReteleTema1.pdb
+C:\Users\Andrei\Documents\GitHub\ReteleTema1\ReteleTema1\obj\Debug\ReteleTema1.csprojResolveAssemblyReference.cache
